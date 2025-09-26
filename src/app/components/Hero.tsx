@@ -79,13 +79,13 @@ export default function Hero() {
           className="flex flex-col md:flex-row justify-center gap-4"
         >
           <Link
-            href=""
+            href="/projects"
             className="bg-primary inline-block w-full md:w-auto text-white px-8 py-3 rounded-lg hover:bg-primary/90 transition-colors"
           >
             View Projects
           </Link>
           <Link
-            href=""
+            href="/contact"
             className=" inline-block w-full bg-gray-500  md:w-auto text-gray-800 dark:text-white px-8 py-3 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
           >
             Contact Me
